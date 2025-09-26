@@ -1,0 +1,182 @@
+﻿<reisid>
+	<reis Sihtkoht="Leijiadian" Hind="€71,74">
+		<Lennujaam>Galegu Airport</Lennujaam>
+		<Transport>Buick</Transport>
+		<Kestus>17</Kestus>
+		<ReisiAlgusPaev>2026-09-07</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Du’ermenqin" Hind="€26,33">
+		<Lennujaam>Ketapang(Rahadi Usman) Airport</Lennujaam>
+		<Transport>GMC</Transport>
+		<Kestus>2</Kestus>
+		<ReisiAlgusPaev>2026-02-12</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Alegre" Hind="€97,11">
+		<Lennujaam>Bumi Airport</Lennujaam>
+		<Transport>Toyota</Transport>
+		<Kestus>10</Kestus>
+		<ReisiAlgusPaev>2026-07-07</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Hagonoy" Hind="€88,20">
+		<Lennujaam>Gualeguaychu Airport</Lennujaam>
+		<Transport>Mitsubishi</Transport>
+		<Kestus>5</Kestus>
+		<ReisiAlgusPaev>2026-09-04</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Benito Juarez" Hind="€84,00">
+		<Lennujaam>Higuerote Airport</Lennujaam>
+		<Transport>Mercedes-Benz</Transport>
+		<Kestus>11</Kestus>
+		<ReisiAlgusPaev>2026-03-08</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Igang" Hind="€96,81">
+		<Lennujaam>Raglan Airfield</Lennujaam>
+		<Transport>Ford</Transport>
+		<Kestus>1</Kestus>
+		<ReisiAlgusPaev>2025-10-15</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Gaoshi" Hind="€72,93">
+		<Lennujaam>Inus Airport</Lennujaam>
+		<Transport>Toyota</Transport>
+		<Kestus>7</Kestus>
+		<ReisiAlgusPaev>2026-07-24</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Zhigong" Hind="€53,08">
+		<Lennujaam>Elorza Airport</Lennujaam>
+		<Transport>Chevrolet</Transport>
+		<Kestus>5</Kestus>
+		<ReisiAlgusPaev>2026-01-13</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Cidadap" Hind="€45,38">
+		<Lennujaam>Ivano-Frankivsk International Airport</Lennujaam>
+		<Transport>Chevrolet</Transport>
+		<Kestus>12</Kestus>
+		<ReisiAlgusPaev>2026-08-12</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Vashkivtsi" Hind="€77,66">
+		<Lennujaam>St Marys Municipal Airport</Lennujaam>
+		<Transport>Lotus</Transport>
+		<Kestus>4</Kestus>
+		<ReisiAlgusPaev>2026-03-08</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Jelah" Hind="€52,32">
+		<Lennujaam>Vredendal Airport</Lennujaam>
+		<Transport>Volkswagen</Transport>
+		<Kestus>2</Kestus>
+		<ReisiAlgusPaev>2025-09-24</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Limoges" Hind="€87,22">
+		<Lennujaam>James M Cox Dayton International Airport</Lennujaam>
+		<Transport>GMC</Transport>
+		<Kestus>16</Kestus>
+		<ReisiAlgusPaev>2025-12-04</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Bol’shoye Skuratovo" Hind="€56,64">
+		<Lennujaam>Awang Airport</Lennujaam>
+		<Transport>BMW</Transport>
+		<Kestus>4</Kestus>
+		<ReisiAlgusPaev>2025-10-09</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Tlumacov" Hind="€16,13">
+		<Lennujaam>Presidente Nicolau Lobato International Airport</Lennujaam>
+		<Transport>Jaguar</Transport>
+		<Kestus>16</Kestus>
+		<ReisiAlgusPaev>2026-08-04</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Tirapata" Hind="€51,09">
+		<Lennujaam>Waco Regional Airport</Lennujaam>
+		<Transport>Ford</Transport>
+		<Kestus>3</Kestus>
+		<ReisiAlgusPaev>2025-10-28</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Poligny" Hind="€41,78">
+		<Lennujaam>St. Lewis (Fox Harbour) Airport</Lennujaam>
+		<Transport>BMW</Transport>
+		<Kestus>10</Kestus>
+		<ReisiAlgusPaev>2026-01-22</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Piškorevci" Hind="€72,23">
+		<Lennujaam>Yancheng Airport</Lennujaam>
+		<Transport>Dodge</Transport>
+		<Kestus>5</Kestus>
+		<ReisiAlgusPaev>2025-12-26</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Pervomays’ke" Hind="€30,02">
+		<Lennujaam>Kobuk Airport</Lennujaam>
+		<Transport>Porsche</Transport>
+		<Kestus>5</Kestus>
+		<ReisiAlgusPaev>2026-02-15</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Olleros" Hind="€91,76">
+		<Lennujaam>New River Valley Airport</Lennujaam>
+		<Transport>Toyota</Transport>
+		<Kestus>6</Kestus>
+		<ReisiAlgusPaev>2025-10-08</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Bondowoso" Hind="€82,12">
+		<Lennujaam>Shaktoolik Airport</Lennujaam>
+		<Transport>Ford</Transport>
+		<Kestus>13</Kestus>
+		<ReisiAlgusPaev>2026-02-04</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Tugu" Hind="€72,68">
+		<Lennujaam>Oodnadatta Airport</Lennujaam>
+		<Transport>Kia</Transport>
+		<Kestus>11</Kestus>
+		<ReisiAlgusPaev>2026-05-09</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Wojaszówka" Hind="€60,63">
+		<Lennujaam>St Helens Airport</Lennujaam>
+		<Transport>Subaru</Transport>
+		<Kestus>6</Kestus>
+		<ReisiAlgusPaev>2026-03-01</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Huangnan" Hind="€69,21">
+		<Lennujaam>Sabu-Tardanu Airport</Lennujaam>
+		<Transport>Mercury</Transport>
+		<Kestus>10</Kestus>
+		<ReisiAlgusPaev>2026-02-19</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Wysoka" Hind="€17,47">
+		<Lennujaam>Masindi Airport</Lennujaam>
+		<Transport>GMC</Transport>
+		<Kestus>3</Kestus>
+		<ReisiAlgusPaev>2026-05-16</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Sam Ngam" Hind="€75,83">
+		<Lennujaam>Ralph M Calhoun Memorial Airport</Lennujaam>
+		<Transport>Saab</Transport>
+		<Kestus>11</Kestus>
+		<ReisiAlgusPaev>2026-02-05</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Lazaro Cardenas" Hind="€17,22">
+		<Lennujaam>Santa Cruz Airport</Lennujaam>
+		<Transport>Mitsubishi</Transport>
+		<Kestus>13</Kestus>
+		<ReisiAlgusPaev>2026-02-08</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Caicó" Hind="€77,16">
+		<Lennujaam>Grenoble-Isère Airport</Lennujaam>
+		<Transport>Volkswagen</Transport>
+		<Kestus>6</Kestus>
+		<ReisiAlgusPaev>2026-02-22</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Turmus‘ayya" Hind="€21,73">
+		<Lennujaam>Lake Nash Airport</Lennujaam>
+		<Transport>Jeep</Transport>
+		<Kestus>15</Kestus>
+		<ReisiAlgusPaev>2025-11-10</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Macarse" Hind="€59,49">
+		<Lennujaam>Fürstenfeldbruck Air Base</Lennujaam>
+		<Transport>Land Rover</Transport>
+		<Kestus>15</Kestus>
+		<ReisiAlgusPaev>2026-02-02</ReisiAlgusPaev>
+	</reis>
+	<reis Sihtkoht="Mórrope" Hind="€61,78">
+		<Lennujaam>Shaxian Airport</Lennujaam>
+		<Transport>Saab</Transport>
+		<Kestus>1</Kestus>
+		<ReisiAlgusPaev>2026-09-03</ReisiAlgusPaev>
+	</reis>
+</reisid>
